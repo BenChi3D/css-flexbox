@@ -1,13 +1,3 @@
-@font-face {
-    font-family: 'Lexend Deca';
-    src: url(LexendDeca-VariableFont_wght.ttf);
-}
-
-@font-face {
-    font-family: 'Big Shoulders Display';
-    src: url(BigShouldersDisplay-VariableFont_wght.ttf);
-}
-
 *{
     margin: 0;
     padding: 0;
